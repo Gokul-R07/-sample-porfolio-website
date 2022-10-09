@@ -106,6 +106,7 @@
     background-color:darkmagenta ;
     color: white;
     font-size: 20px;
+    z-index: 1;
 }
 .all-projects-btn:hover{
     background-color: aqua;
